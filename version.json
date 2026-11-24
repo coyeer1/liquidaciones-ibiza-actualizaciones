@@ -1,0 +1,15 @@
+{
+  "version": "1.7.0",
+  "archivo": "app-1.7.0.zip",
+  "sha256": "a7714ec5b22b4f993a63d01ab8d7e41e4a94a5c31524b22664422df6872b40a4",
+  "fecha": "2026-11-24",
+  "notas": [
+    "Meses de 30 días: el corte de diciembre es el 30, como en las planillas de Ibiza",
+    "Botón Cambiar días en Liquidar a todos",
+    "Volver a contratar a quien se retiró y vuelve",
+    "Certificado laboral",
+    "Avisos de vacaciones sin confirmar, salario mínimo del año y fechas que caen domingo",
+    "Actualizaciones por internet"
+  ],
+  "firma": "PrL5Bu5WZzp7JIPuw4C0H/1gWjsTx58mpUme0Cq2qdfSG5aWP4fi9dTUH0ihBhC7E6mcPEw3Wss5IWDtGaNTDw=="
+}
