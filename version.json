@@ -1,15 +1,12 @@
 {
-  "version": "1.7.0",
-  "archivo": "app-1.7.0.zip",
-  "sha256": "a7714ec5b22b4f993a63d01ab8d7e41e4a94a5c31524b22664422df6872b40a4",
+  "version": "1.8.0",
+  "archivo": "app-1.8.0.zip",
+  "sha256": "2234ea5d4cb5e6dee5109e3aaf50611e17e8b5ae62949a0cd9f54b74bf1b0732",
   "fecha": "2026-11-24",
   "notas": [
-    "Meses de 30 días: el corte de diciembre es el 30, como en las planillas de Ibiza",
-    "Botón Cambiar días en Liquidar a todos",
-    "Volver a contratar a quien se retiró y vuelve",
-    "Certificado laboral",
-    "Avisos de vacaciones sin confirmar, salario mínimo del año y fechas que caen domingo",
-    "Actualizaciones por internet"
+    "Liquidaciones de antes del programa: se suben los Excel viejos de primas y cesantías y quedan como historia",
+    "Historial: pestaña Antes del programa, con filtros y Excel",
+    "Ficha del trabajador: Pagado antes del programa"
   ],
-  "firma": "PrL5Bu5WZzp7JIPuw4C0H/1gWjsTx58mpUme0Cq2qdfSG5aWP4fi9dTUH0ihBhC7E6mcPEw3Wss5IWDtGaNTDw=="
+  "firma": "DyaIr7QR9ewGYgvrEvYwcSj9Dnh9wy8+UfgtTIt2kUSNX0T/Zmv+aIZsToUbafxuL7JkVrepNjCBAycmLrgvBg=="
 }
