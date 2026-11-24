@@ -1,11 +1,10 @@
 {
-  "version": "1.9.0",
-  "archivo": "app-1.9.0.zip",
-  "sha256": "b82183265d86682362e83d3d4ab4cadbd7fbc917d6d92fa73793e22b51c9a0d4",
+  "version": "1.10.0",
+  "archivo": "app-1.10.0.zip",
+  "sha256": "121dcb2bd3ecf6f0d82adff35a5b946ae9b3dd1b949bb43d361716dc9755df4f",
   "fecha": "2026-11-24",
   "notas": [
-    "Ya no trabaja aquí: liquidación definitiva o, si ya se le liquidó por fuera, solo marcarlo retirado (se puede deshacer)",
-    "Borrar a alguien cargado por error (si no tiene liquidaciones)"
+    "Botón «Eliminar» en la lista de trabajadores y en cada ficha: pregunta si ya no trabaja en la empresa (pasa a retirados y su historia se guarda) o si se cargó por error (se borra)"
   ],
-  "firma": "jIkoGrtQpyUCx43tvbHK/qa7HZS/TZrKNM3RB+DbsSbtN4JUGfQ7gpUQUY7sbByr+mBtNU/WbB+hDYFBLAUkCA=="
+  "firma": "RahuOQfzdkThDW2Qb/nLl68kusXs8fEkZ1GLK+JUsoKx2JVdGntoZMpL5Dek0dQszgRNKEKmMNd81390skRMCA=="
 }
