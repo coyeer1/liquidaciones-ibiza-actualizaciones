@@ -1,10 +1,15 @@
 {
-  "version": "1.10.0",
-  "archivo": "app-1.10.0.zip",
-  "sha256": "121dcb2bd3ecf6f0d82adff35a5b946ae9b3dd1b949bb43d361716dc9755df4f",
-  "fecha": "2026-11-24",
+  "version": "1.11.0",
+  "archivo": "app-1.11.0.zip",
+  "sha256": "f7a81e0c594008a23dc8fb7748f9ddff3902c2bdf7054f39569c1c9ddc88ad24",
+  "fecha": "2026-11-26",
   "notas": [
-    "Botón «Eliminar» en la lista de trabajadores y en cada ficha: pregunta si ya no trabaja en la empresa (pasa a retirados y su historia se guarda) o si se cargó por error (se borra)"
+    "Liquidación definitiva: se puede quitar lo que no va, cambiar desde cuándo y los días de vacaciones",
+    "Eliminar: «ya se le pagó todo» lo deja retirado de una vez, sin liquidarlo",
+    "Liquidar a todos ya no muestra a quien se fue, y se puede quitar desde cada fila",
+    "Corregir una liquidación ya hecha (descontar días) y adjuntar el documento de soporte",
+    "Pagos de antes del programa: cambiar días o valor y adjuntar el soporte",
+    "De aquí en adelante el programa se actualiza solo, al abrirlo o al cerrarlo"
   ],
-  "firma": "RahuOQfzdkThDW2Qb/nLl68kusXs8fEkZ1GLK+JUsoKx2JVdGntoZMpL5Dek0dQszgRNKEKmMNd81390skRMCA=="
+  "firma": "LdzyyvaBcCbyRBgMkMe2wCf/FXCtnQz5DX4UbssAaDZAV1+gAZu0VIHfoUFGOt+OPZoZ72WIxNJGizq+M9ZRAg=="
 }
